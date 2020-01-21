@@ -1,1 +1,4 @@
-# CRUD_IONIC_ICON
+# IonicCRUDfireBase
+
+instalar modulos de firebase
+# npm install firebase angularfire2
